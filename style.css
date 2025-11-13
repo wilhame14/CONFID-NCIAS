@@ -12,6 +12,9 @@ body {
 margin-top: -54vh;
 margin-right: -30px;
 width: 66vh;
+height: 110vh;
+position: absolute;
+display: flex;
 }
     
 div.intem{
