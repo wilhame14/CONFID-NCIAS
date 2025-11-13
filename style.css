@@ -7,13 +7,13 @@ body {
     flex-direction: column;
     flex-direction: direction;
 }
+
 .ima{
-    height: 70vh;
-    width: 400px;
-    display: block;
-    margin-right: auto;
-   margin-top: -18%;
+margin-top: -54vh;
+margin-right: -30px;
+width: 66vh;
 }
+    
 div.intem{
     min-width: auto;
     display: block;
