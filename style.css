@@ -21,6 +21,15 @@ div.intem{
     min-width: auto;
     display: block;
     margin-left: 415px;
-   }
+}
 
-   b
+div.ima
+{
+    margin-top: -54vh;
+    margin-right: -30px;
+    width: 66vh;
+    height: 110vh;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+}
