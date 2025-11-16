@@ -1,10 +1,10 @@
 @media screen and (max-width: 800px) and (min-width: 70px){
     .ima{
-    margin-top: -0%;
+    margin-top: auto;
     width: 50.5vh;
     height: 75.5vh;
     display: block;
-    margin-right: auto;
+    align-items: center;
     }
 
 div.intem{
@@ -13,7 +13,7 @@ div.intem{
         }
 .link-compra{
     margin-top: 76vh;
-    margin-right: auto;
+    margin-left: auto;
     }
     
 }
