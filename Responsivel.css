@@ -1,4 +1,4 @@
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) and (min-width: 70px){
     .ima{
     margin-top: -0%;
     width: 50vh;
@@ -11,8 +11,8 @@ div.intem{
         margin-top: 1vh;
         }
 .link-compra{
-margin-left: -2.1px;
     margin-top: 76vh;
-font-size: 20px;
-}
+    margin-right: 170px;
+    }
+    
 }
