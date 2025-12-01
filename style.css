@@ -1,35 +1,28 @@
-body {
+body {/* estilo do corpo da pagina*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(240, 240, 240);
     margin: 10px;
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
-    flex-direction: direction;
+
 }
 
-.ima{
-margin-top: -54vh;
-margin-right: -30px;
-width: 66vh;
-height: 110vh;
-position: absolute;
+.ima{/* estilo da imagem*/
+/* largura da imagem*/
+height: 56%;/* altura da imagem*/
+margin-left: 1%;/* margem esquerda da imagem*/
+margin-top: -21%;/* margem superior da imagem*/
+position: absolute;/*posiçao absoluta da imagem*/
 display: flex;
 }
     
-div.intem{
+div.intem{/* estilo do texto*/
+    font-size: 20px;
     min-width: auto;
-    display: block;
-    margin-left: 415px;
+    display:block;
+    margin-left:415px;
 }
 
-div.ima
-{
-    margin-top: -54vh;
-    margin-right: -30px;
-    width: 66vh;
-    height: 110vh;
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-}
+
+

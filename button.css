@@ -1,14 +1,20 @@
 button{
-    background-color: #79ee2b;
-    color: white;
-    padding: 15px 32px;
+    background-color: #10eb31;
+    border: none;
+    color: black;
+    padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    font-size: 19px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
     cursor: pointer;
-    border: none;
-    margin-top: 20px;
-  margin-left: auto;
-  margin-right: 50px;
+    border-radius: 12px;
+    margin-top: 6.2%;
+    font-size: large;
    
+}
+
+button:hover {
+    background-color: #bfccc0;
 }
