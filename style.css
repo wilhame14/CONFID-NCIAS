@@ -1,6 +1,7 @@
 body {/* estilo do corpo da pagina*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(240, 240, 240);
+    background-color: #d8d8d5;/* cor de fundo da pagina*/
+    color: #333;/* cor do texto*/
     margin: 10px;
     overflow-x: hidden;
     display: flex;
