@@ -1,5 +1,9 @@
 /* Responsivo para telas pequenas */
 @media screen and (max-width: 800px) and (min-width: 70px){
+    body{
+    background-color: #ffffff;/* cor de fundo da pagina*/   
+    color: #000000;/* cor do texto*/
+    }
     .ima{/* estilo da imagem*/
     margin-left: 5%;
     margin-top: auto;
