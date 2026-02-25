@@ -18,7 +18,7 @@
     }  
 }
 /* Responsivo para telas médias */
- @media screen and (max-width: 2000px) and (min-width:1080px){
+ @media screen and (max-width: 1920px) and (min-width:1080px){
    body{
     background-color: #ffffff;/* cor de fundo da pagina*/
     color: #000000;/* cor do texto*/
@@ -26,13 +26,13 @@
     }
     .ima{/* estilo da imagem*/
     margin-left: 1%;
-    margin-top: -21%;
-    width: 56%;
-    height: 56%; 
+    margin-top: -50%;/* margem superior negativa para ajustar a posição da imagem*/
+    width: 56%;/* largura da imagem*/
+    height: 83%;/* largura e altura da imagem*/
     
    
 }
- div.intem{
+ div.intem{/* estilo do texto*/
     font-size: 20px;
     min-width: auto;
     display:block;
@@ -40,7 +40,7 @@
     margin-top: 0;
  }
     .link-compra{/* estilo do link de compra*/
-    margin-top: 10.90%;
+    margin-top: -1.50%;
   margin-left: 100px;
     }
 }
