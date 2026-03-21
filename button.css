@@ -1,4 +1,4 @@
-button{
+.link-compra{
     background-color: #10eb31;
     border: none;
     color: black;
@@ -7,14 +7,14 @@ button{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 5px 2px;
     cursor: pointer;
     border-radius: 12px;
-    margin-top: 6.2%;
+    margin-top: 64.2vh;
     font-size: large;
    
 }
 
-button:hover {
-    background-color: #bfccc0;
+.link-compra{
+    background-color: #13f726;
 }

@@ -6,7 +6,7 @@
     }
     .ima{/* estilo da imagem*/
     margin-left: 5%;
-    margin-top: auto;
+    margin-top: 1.3vh;/* margem superior negativa para ajustar a posição da imagem*/
     width: -9%;
     height: -5;
 }
